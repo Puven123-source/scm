@@ -1,0 +1,3 @@
+ujian amali
+-github dan git
+- makmal computer 1
